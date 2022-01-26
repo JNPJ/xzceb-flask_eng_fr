@@ -1,5 +1,5 @@
 ---
 applications:
- - name: ibmlearner_translation_app
+ - name: 31d-translator-en-fr
    random-random: true
    memory: 64M
